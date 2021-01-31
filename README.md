@@ -14,14 +14,14 @@ Search: [https://api.themoviedb.org/3/search/movie?&api_key=${process.env.REACT_
 
 ### Live Demo
 
-[https://praveenorugantitech.github.io/\npraveenorugantitech-movie-reactjs/](https://praveenorugantitech.github.io/\npraveenorugantitech-movie-reactjs/)
+[https://praveenorugantitech.github.io/praveenorugantitech-movie-reactjs/](https://praveenorugantitech.github.io/praveenorugantitech-movie-reactjs/)
 
 
 ### Setup Local Instructions
 
 ```
-git clone https://github.com/praveenorugantitech/\npraveenorugantitech-movie-reactjs.git
-cd \npraveenorugantitech-movie-reactjs
+git clone https://github.com/praveenorugantitech/praveenorugantitech-movie-reactjs.git
+cd praveenorugantitech-movie-reactjs
 
 create .env file and include your API Key related to MovieDB API
 
@@ -32,9 +32,3 @@ npm install
 npm start
 
 ```
-
-
-
-
-
-
