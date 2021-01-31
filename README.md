@@ -9,7 +9,7 @@ Search: [https://api.themoviedb.org/3/search/movie?&api_key=${process.env.REACT_
 
 ### App Screenshots
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/\npraveenorugantitech-movie-reactjs/master/src/images/screenshot.PNG)
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-movie-reactjs/master/src/images/screenshot.PNG)
 
 
 ### Live Demo
