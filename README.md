@@ -2,9 +2,9 @@
  
 ### API
 
-Featured: [https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=${REACT_APP_APIKEY}](https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=${REACT_APP_APIKEY})
+Featured: [https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=${process.env.REACT_APP_APIKEY}](https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=${process.env.REACT_APP_APIKEY})
 
-Search: [https://api.themoviedb.org/3/search/movie?&api_key=${REACT_APP_APIKEY}&query=]("https://api.themoviedb.org/3/search/movie?&api_key=${REACT_APP_APIKEY}&query=) 
+Search: [https://api.themoviedb.org/3/search/movie?&api_key=${process.env.REACT_APP_APIKEY}&query=]("https://api.themoviedb.org/3/search/movie?&api_key=${process.env.REACT_APP_APIKEY}&query=) 
 
 
 ### App Screenshots
