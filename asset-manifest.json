@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/praveenorugantitech-movie-reactjs/static/css/main.f4f9180a.chunk.css",
-    "main.js": "/praveenorugantitech-movie-reactjs/static/js/main.7c41a833.chunk.js",
+    "main.js": "/praveenorugantitech-movie-reactjs/static/js/main.b4df3a87.chunk.js",
     "runtime-main.js": "/praveenorugantitech-movie-reactjs/static/js/runtime-main.c365af52.js",
     "static/js/2.1a9a5df6.chunk.js": "/praveenorugantitech-movie-reactjs/static/js/2.1a9a5df6.chunk.js",
     "index.html": "/praveenorugantitech-movie-reactjs/index.html",
@@ -11,6 +11,6 @@
     "static/js/runtime-main.c365af52.js",
     "static/js/2.1a9a5df6.chunk.js",
     "static/css/main.f4f9180a.chunk.css",
-    "static/js/main.7c41a833.chunk.js"
+    "static/js/main.b4df3a87.chunk.js"
   ]
 }
